@@ -1,13 +1,13 @@
 {
     "terminal.integrated.shell.osx": "/usr/bin/zsh.exe",
     "workbench.colorCustomizations": {
-        "activityBar.background": "#1a1a1a",
+        "activityBar.background": "#d04649",
         "activityBar.foreground": "#e7e7e7",
         "activityBar.inactiveForeground": "#e7e7e799",
-        "activityBarBadge.background": "#606020",
-        "activityBarBadge.foreground": "#e7e7e7",
-        "titleBar.activeBackground": "#000000",
-        "titleBar.inactiveBackground": "#00000099",
+        "activityBarBadge.background": "#37cb34",
+        "activityBarBadge.foreground": "#000000",
+        "titleBar.activeBackground": "#b52e31",
+        "titleBar.inactiveBackground": "#b52e3199",
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveForeground": "#e7e7e799"
     }
